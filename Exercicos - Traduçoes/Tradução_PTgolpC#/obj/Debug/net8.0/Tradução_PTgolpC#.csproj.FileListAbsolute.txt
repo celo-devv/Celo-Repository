@@ -1,0 +1,28 @@
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\bin\Debug\net8.0\Tradução_PTgolpC#.exe
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\bin\Debug\net8.0\Tradução_PTgolpC#.deps.json
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\bin\Debug\net8.0\Tradução_PTgolpC#.runtimeconfig.json
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\bin\Debug\net8.0\Tradução_PTgolpC#.dll
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\bin\Debug\net8.0\Tradução_PTgolpC#.pdb
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.AssemblyInfoInputs.cache
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.AssemblyInfo.cs
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.csproj.CoreCompileInputs.cache
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.dll
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\obj\Debug\net8.0\refint\Tradução_PTgolpC#.dll
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.pdb
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.genruntimeconfig.cache
+C:\Users\celo estudos\source\repos\Tradução_PTgolpC#\Tradução_PTgolpC#\obj\Debug\net8.0\ref\Tradução_PTgolpC#.dll
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.AssemblyInfoInputs.cache
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.AssemblyInfo.cs
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.csproj.CoreCompileInputs.cache
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.dll
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\obj\Debug\net8.0\refint\Tradução_PTgolpC#.dll
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.pdb
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\bin\Debug\net8.0\Tradução_PTgolpC#.exe
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\bin\Debug\net8.0\Tradução_PTgolpC#.deps.json
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\bin\Debug\net8.0\Tradução_PTgolpC#.runtimeconfig.json
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\bin\Debug\net8.0\Tradução_PTgolpC#.dll
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\bin\Debug\net8.0\Tradução_PTgolpC#.pdb
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\obj\Debug\net8.0\Tradução_PTgolpC#.genruntimeconfig.cache
+C:\Users\celo estudos\Desktop\Estudos\Exercicos - Traduçoes\Tradução_PTgolpC#\obj\Debug\net8.0\ref\Tradução_PTgolpC#.dll
